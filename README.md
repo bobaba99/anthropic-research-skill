@@ -138,15 +138,3 @@ All methodologies are derived from Anthropic's published research:
 | Agentic Misalignment | Insider threat scenarios + two-factor threat modeling |
 
 Full papers available at [anthropic.com/research](https://www.anthropic.com/research).
-
----
-
-## Contributing
-
-PRs welcome. If Anthropic publishes new research with novel methodologies, extract the framework (not results) and add it to the appropriate reference file.
-
----
-
-## License
-
-MIT
